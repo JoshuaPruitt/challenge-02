@@ -167,7 +167,6 @@ main {
   min-height: 150px;
   max-height: 150px;
   flex-basis: calc(50% - 1em);
-  display: flex;
   align-items: flex-end;
   padding: 0 0 20px 0;
   margin: 0.5em;
@@ -193,7 +192,7 @@ main {
   padding: 8px 10px;
 }
 
-.flex-item div h3 {
+.flex-item h3 {
   font-size: 1.6rem;
   position: absolute;
 }
@@ -232,6 +231,9 @@ main {
 
 /* portfolio project images */
 /* TODO: Add portfolio project images here*/
+.first-project-background {
+  background-image: url("../images/Screenshot\ 2024-06-15\ 122620.png");
+}
 
 /* media queries */
 
