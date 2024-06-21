@@ -18,5 +18,6 @@ This section contains pictures of my work. My main work is larger than the other
 This section contains links to my work related socials. My LinkedIn, GitHub, and Instagram have been linked down here for anyone to view.
 
 ## Credits
-Joshua Pruitt, for webpage design
-Coding bootcamp, for providing the css needed to make the page work
+Joshua Pruitt, for webpage design.
+<br>
+Coding bootcamp, for providing the css needed to make the page work.
